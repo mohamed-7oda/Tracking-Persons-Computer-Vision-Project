@@ -6,10 +6,8 @@ This project applies YOLOv8 for real-time person detection and tracking in video
 🔧 Features:
 * Person detection using YOLOv8 Nano
 * Unique ID assignment for each person
-
-Route visualization with color-coded paths
-
-Output: Video with bounding boxes and tracked routes
+* Route visualization with color-coded paths
+* Output: Video with bounding boxes and tracked routes
 
 📁 Dataset:
 A video of multiple people walking across each other in shared paths.
