@@ -10,8 +10,8 @@ This project applies YOLOv8 for real-time person detection and tracking in video
 * Route visualization with color-coded paths
 * Output: Video with bounding boxes and tracked routes
 
-📁 Dataset:
+## 📁 Dataset:
 A video of multiple people walking across each other in shared paths.
 
-🛠️ Tools:
-Python, OpenCV, YOLOv8, NumPy, Google Colab
+## 🛠️ Tools:
+OpenCV, YOLOv8
